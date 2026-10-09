@@ -1,0 +1,9 @@
+{
+  "frames_processed": 40,
+  "detected_box_observations": 229,
+  "model": "yolov8n.pt",
+  "checkpoint_type": "pretrained COCO, not recovered project training checkpoint",
+  "drone_footage_verified": false,
+  "flight_control_implemented": false,
+  "evaluation": "Execution smoke test only; no ground-truth detection accuracy measurement."
+}

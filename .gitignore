@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+runs/
+data/
+*.pt
+*.onnx
+*.mp4
+*.zip
